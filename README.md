@@ -32,6 +32,8 @@ I built Junie alone, and this repo shows how, mostly in diagrams. It's a snapsho
 **[How Junie is built](#how-junie-is-built)** [overview](#click-on-the-laptop-review-on-the-phone) · [extension](#living-inside-someone-elses-page) · [streaming sites](#every-player-is-different-the-subtitle-code-doesnt-care) · [tokenizer](#where-does-a-word-end-when-there-are-no-spaces) · [model choice](#the-cheapest-model-kept-up-with-sonnet) · [design system](#change-a-colour-once-every-app-follows) · [shipping](#from-git-tag-to-app-store) · [testing](#a-test-that-mocks-everything-tests-nothing)  
 **[How I work with AI](#how-i-work-with-ai)** [agents and gates](#big-changes-wait-for-three-yeses) · [rules](#written-linted-hooked)
 
+https://github.com/user-attachments/assets/67aa6e9f-cb21-4ece-ac13-2f0b6d65c807
+
 ## How Junie is built
 
 ### Click on the laptop, review on the phone
